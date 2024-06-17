@@ -12,6 +12,14 @@ This repository contains the implementation of Neural Style Transfer using Tenso
 ## Introduction
 Neural Style Transfer is a technique that combines the content of one image with the style of another. This implementation uses TensorFlow and the InceptionV3 model to achieve this. The project demonstrates how to load images, preprocess them, perform style transfer, and visualize the results.
 
+![image](https://github.com/Hayato-7812/Neural_Style_Transfer_with_InceptionV3/assets/63275973/1b450359-0950-4ce5-bba2-1c6fbacc8047)
+
+
+Please refer to the following article for an explanation of how NSTs work and the detailed code. (described in Japanese).
+
+- [Neural Style Transfer で遊ぶ①](https://qiita.com/Hayato-7812/items/faf4f0c16da46bc09ee9)
+- [Neural Style Transfer で遊ぶ ② Inception V3を用いたNeural Style Transferの実装解説](https://qiita.com/Hayato-7812/items/45eb21f22917b3a1616d)
+
 ## Installation
 To run this project, you need to have Python and TensorFlow installed. You can install the necessary dependencies using the following command:
 
